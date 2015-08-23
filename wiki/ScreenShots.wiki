@@ -1,0 +1,21 @@
+#summary ScreenShots of zx4all
+
+= Screen shots of Menu =
+
+Taken on Linux 86 machine with Beta 2
+
+== Menu Filemanager ==
+
+http://zx4all.googlecode.com/svn/wiki/screenshots/screenshot_zx4all_filemanager.png
+
+== Main menu ==
+
+http://zx4all.googlecode.com/svn/wiki/screenshots/screenshot_zx4all_main_menu.png
+
+== Menu Options ==
+
+http://zx4all.googlecode.com/svn/wiki/screenshots/screenshot_zx4all_options.png
+
+== Spectrum +3 with Virtual On Screen Keyboard ==
+
+http://zx4all.googlecode.com/svn/wiki/screenshots/screenshot_zx4all_emu_vkbd.png
